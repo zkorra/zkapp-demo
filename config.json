@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "berkeley-foo": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkeley-foo.json",
+      "feepayerKeyPath": "/Users/salmonwine/.cache/zkapp-cli/keys/berkeley-foo.json",
+      "feepayerAlias": "berkeley-foo-alias",
+      "fee": "0.1",
+      "smartContract": "Square"
+    }
+  }
 }
