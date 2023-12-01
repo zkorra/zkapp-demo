@@ -7,7 +7,7 @@
       "feepayerKeyPath": "/Users/salmonwine/.cache/zkapp-cli/keys/berkeley-foo.json",
       "feepayerAlias": "berkeley-foo-alias",
       "fee": "0.1",
-      "smartContract": "Square"
+      "smartContract": "grade/Grade"
     }
   }
 }
